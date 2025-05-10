@@ -1,1 +1,2 @@
+Trabalho da dsciplina Sistemas Distribuídos.
 Este programa simula uma estrutura de lista circular que permite a eleição de um coordenador com base em uma chave numérica aleatória e a comunicação entre os nós por meio de envio de mensagens. A alocação dinâmica e o gerenciamento de memória são controlados pela função 'liberar_memoria', garantindo a correta liberação dos recursos alocados ao final da execução.
